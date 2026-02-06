@@ -1,0 +1,26 @@
+body {
+    line-height: 1.3;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header{
+    background-color: #00704a;
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+#main{
+    background: #d5d5ef;
+    padding: 20px;
+}
+
+#sal-img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: 5px;
+}
